@@ -1,0 +1,23 @@
+{
+  "name": "typescript_simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^2.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahiko00/SimpleNodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yahiko00/SimpleNodeApp/issues"
+  },
+  "homepage": "https://github.com/yahiko00/SimpleNodeApp#readme"
+}

@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Compiled binary
+build
+
+# npm
+package-lock.json
